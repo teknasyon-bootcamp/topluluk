@@ -1,5 +1,5 @@
 # bootcamp-site
-Kodluyoruz &amp; Vivense - Bootcamp Site
+Teknasyon Bootcamp Site
 
 Template file:
 `kisiler/<first_name.last_name>.md`
