@@ -1,7 +1,7 @@
 ---
 first_name: Furkan 
 last_name: Biçer
-email: furkanbicerresmi@gmail.com
+email: furkanbicerdeneme@gmail.com
 birth_date: 19980827
 motto: "Live fast die young!"
 tags:
