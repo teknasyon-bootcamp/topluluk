@@ -9,6 +9,8 @@ tags:
 layout: kisi.11ty.js
 ---
 
+Selam, burada hava çok sıcak! :D
+
 <style>
 .art {
   position: relative;
