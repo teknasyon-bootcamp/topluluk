@@ -1,4 +1,4 @@
 ---
 layout: layout.11ty.js
-title: Kodluyoruz & Vivense Bootcamp Site
+title: Teknasyon Bootcamp Site
 ---
